@@ -12,9 +12,9 @@
 
 ## Port Assignments
 
-- **Clearing Bank (CB):** port `8080`
-- **Bank A:** port `8081`
-- **Bank B:** port `8082`
+- **Centrale Bank (CB):** port `8080`
+- **Bank IUS:** port `8081`
+- **Bank KBC:** port `8082`
 
 ---
 
