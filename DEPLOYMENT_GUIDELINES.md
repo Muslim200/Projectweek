@@ -77,7 +77,11 @@ Expected response:
   "status": 200,
   "code": 2000,
   "message": "OK",
-  "data": []
+  "data": {
+    "team": "Your Bank Name",
+    "bic": "YOURBIC1",
+    "members": ["name1", "name2", "name3"]
+  }
 }
 ```
 
