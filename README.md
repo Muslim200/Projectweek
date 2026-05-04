@@ -5,6 +5,7 @@
 * Muslim Bouziane
 * Amin El Ouaryachi Al Kadaui
 * Rayan El-Miri
+* Hassan Belorf
 
 ## 📘 Inleiding
 
